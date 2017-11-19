@@ -9,5 +9,7 @@ target 'BitcoinTicker' do
 
     pod 'SwiftyJSON'
     pod 'Alamofire'
-
+    pod 'AppCenter'
+    pod 'AppCenter/Distribute'
+    
 end
